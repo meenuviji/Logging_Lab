@@ -84,7 +84,7 @@ data/boston_weather_data.csv
 ```
 ### **2️⃣ Dataset Loading**
 
-```bash`
+```bash
 loader.py`:
 
 - Loads CSV data safely with `pandas`
