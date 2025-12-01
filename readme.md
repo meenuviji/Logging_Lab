@@ -117,9 +117,9 @@ Logs missing values for all columns.
 ```
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
-### **1. Create a virtual environment**
+**1. Create a virtual environment**
 
 ```bash
 python3 -m venv venv
