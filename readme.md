@@ -8,7 +8,7 @@ This project is entirely original and designed with a **Boston weather dataset**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```bash
 PYTHON-LOGGING-LAB/
 │
@@ -31,7 +31,7 @@ Each module is independent, logged, and reusable—designed to mimic a real prod
 ```
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project demonstrates:
 ```bash
@@ -47,7 +47,7 @@ This project demonstrates:
 ```
 ---
 
-## 🌦 Dataset Description (Boston Weather Data)
+##  Dataset Description (Boston Weather Data)
 
 The project uses a CSV dataset containing Boston temperature readings.  
 The columns typically include:
@@ -69,7 +69,7 @@ data/boston_weather_data.csv
 ```
 ---
 
-## 🧠 Application Workflow
+##  Application Workflow
 
 
 ### **1️⃣ Logger Initialization**
@@ -158,7 +158,7 @@ logs/boston_weather_app.log
 
 ---
 
-🧩 Logging Features Demonstrated
+ Logging Features Demonstrated
 
 Feature	Description
 File Logging	All logs are stored in logs/boston_weather_app.log
@@ -171,7 +171,7 @@ Modular Architecture	Separate loader, analyzer, and logger modules
 
 ---
 
-🛠 Tech Stack
+ Tech Stack
 	•	Python 3
 
 	•	pandas for dataset handling
@@ -182,7 +182,7 @@ Modular Architecture	Separate loader, analyzer, and logger modules
 
 ---
 
-📌 Why This Lab Is Unique
+ Why This Lab Is Unique
 	•	Different dataset (Boston weather)
 
 	•	Different analysis strategy
