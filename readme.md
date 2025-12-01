@@ -183,6 +183,7 @@ Modular Architecture	Separate loader, analyzer, and logger modules
 ---
 
  Why This Lab Is Unique
+ 
 	•	Different dataset (Boston weather)
 
 	•	Different analysis strategy
